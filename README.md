@@ -5,6 +5,6 @@
 
 1. bloodhound (obviously)
 2. Pingcastle
-3. Purpleknight
-4. ADMiner
-5. Plumhound
+3. Plumhound
+4. Purpleknight
+5. ADMiner
